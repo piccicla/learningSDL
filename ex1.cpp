@@ -45,6 +45,8 @@ void Time::Display24H(){
         std::cout<<this->hour<<":"<<this->minute<<":"<<this->second<<std::endl;
     }
 
+
+/*
 int main(int argc, char **argv)
 {
 	Time t;
@@ -58,4 +60,4 @@ int main(int argc, char **argv)
     
     
     return 0;
-}
+}*/
